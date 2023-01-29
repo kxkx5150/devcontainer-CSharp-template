@@ -6,6 +6,7 @@
 	"workspaceMount": "source=${localWorkspaceFolder}/,target=/home/vscode/workspace,type=bind",
 	"workspaceFolder": "/home/vscode/workspace", 
     "extensions": [
+		"ms-dotnettools.csharp",
 		"ms-vscode.cpptools",
 		"ms-vscode.powershell"
     ],
